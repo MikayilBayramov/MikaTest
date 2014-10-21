@@ -10,7 +10,8 @@ namespace MikaTest
         static void Main(string[] args)
         {
             Console.WriteLine("Say");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");          
+            Console.WriteLine("Please press Enter key to close the window");
             Console.ReadKey();
         }
     }
