@@ -9,6 +9,7 @@ namespace MikaTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Say");
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
